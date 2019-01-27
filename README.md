@@ -1,10 +1,14 @@
 # x-search
 iOS App that makes api call with word then returns additional works
 
-#Implementations
+# Implementations
 
 Search
-Table View and Custom Table View
+
+TableView and Custom TableView
+
 Card View
+
 API Call
+
 JSON
